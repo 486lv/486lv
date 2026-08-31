@@ -6,7 +6,7 @@
 
 # Hi, I'm ice！ 👋
 
-### Developer building practical, local-first software
+### I will leave the suffering of a lifetime as my epitaph—to remember that I once bore it, and that I transcended it.
 
 
 [![Projects](https://img.shields.io/badge/Projects-Explore-181717?logo=github)](https://github.com/486lv?tab=repositories)
