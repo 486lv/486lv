@@ -4,7 +4,6 @@
 
 ### Developer building practical, local-first software
 
-我喜欢把算法、桌面体验与工程实践整理成真正可以运行、可以验证的项目。
 
 [![Projects](https://img.shields.io/badge/Projects-Explore-181717?logo=github)](https://github.com/486lv?tab=repositories)
 [![Blog](https://img.shields.io/badge/Blog-Visit-0A7B83?logo=hexo&logoColor=white)](https://486lv.github.io/)
