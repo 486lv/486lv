@@ -32,13 +32,5 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 </p>
 
-## More
-
-- 🧠 [MySkill](https://github.com/486lv/MySkill) — 个人 AI Skills 合集
-- ✍️ [Blog](https://486lv.github.io/) — 学习记录与文章
-
-<div align="center">
-
-<sub>Build clearly. Verify carefully. Keep improving.</sub>
 
 </div>
