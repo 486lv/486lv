@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="486lv contribution heatmap" src="https://ghchart.rshah.org/2EA44F/486lv">
+</p>
+
 <div align="center">
 
 # Hi, I'm refine_lv 👋
@@ -15,71 +19,6 @@
 - 🔭 关注本地优先工具、桌面应用、计算机视觉与安全实验
 - 🧩 偏爱把复杂流程做成清晰、可操作的产品体验
 - 🛠️ 重视文档、可复现性、隐私边界与负责任使用
-
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [FaceStack](https://github.com/486lv/FaceStack)
-
-本地优先的人脸检测、注册、验证、识别、安全评测与单目深度分析工具箱。
-
-`Python` `OpenCV` `Computer Vision`
-
-</td>
-<td width="50%" valign="top">
-
-### [Study Quest](https://github.com/486lv/Study-Quest)
-
-融合番茄专注、剧情成长、彩蛋收藏、待办管理与音乐的桌面应用。
-
-`TypeScript` `Next.js` `Electron`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [PortScannerLab](https://github.com/486lv/PortScannerLab)
-
-面向教学、运维自查和授权实验的 Windows 端口扫描与 RADIUS 实验平台。
-
-`C#` `.NET Framework` `WinForms`
-
-</td>
-<td width="50%" valign="top">
-
-### [CodexTokenPage](https://github.com/486lv/CodexTokenPage)
-
-扫描本机 Codex 会话记录，生成可离线查看并保留历史数据的 Token 活动仪表盘。
-
-`Python` `HTML` `Local-first`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [MATLAB Image Studio](https://github.com/486lv/MATLAB_ImageStudio)
-
-集图像变换、增强、滤波、边缘检测、形态学与阈值分割于一体的交互式 GUI。
-
-`MATLAB` `Image Processing` `Desktop GUI`
-
-</td>
-<td width="50%" valign="top">
-
-### [tiny-projects](https://github.com/486lv/tiny-projects)
-
-覆盖桌面、移动端、Web、服务端、数据结构与数据挖掘的独立项目合集。
-
-`C++` `Python` `Java` `Flutter`
-
-</td>
-</tr>
-</table>
 
 ## Toolbox
 
